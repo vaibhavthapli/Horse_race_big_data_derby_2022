@@ -1,9 +1,3 @@
-## Problem Statement
-Punters have access to information available on the HKJC website, with veterinary and trackwork record available at the click of a button. There are many factors that could affect the race result and millions have tried to find a winning formula in order to make a profit from betting. We did a simple test to see what would happen if we had bet $1 on every horse with the lowest odds. Theoretically, this should work since the horse with the lowest odds tends to be the favourite. Our results showed otherwise.
-
-![BetLowest](https://github.com/ethan-eplee/HorseRacePrediction/blob/main/images/bet_lowest_odds.jpg)
-
-And so the problem we want to address here is: 
 
 **Can we use machine learning to make predictions to profit from horse races?**
 
